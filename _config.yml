@@ -26,7 +26,7 @@ author:
   name             : "Feng He"
   pronouns         : # example: "she/her"  
   bio              : "Polar Climate and Exoplanet Modeler"
-  location         : "Madison, WI"
+  location         : "Madison1"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "fenghe@wisc.edu" 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
