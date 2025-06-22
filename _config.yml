@@ -13,7 +13,7 @@ title                    : "Feng He/TraCE-21K Project"
 title_separator          : "-"
 name                     : &name "Feng He"
 description              : &description "Polar Climate and Exoplanet Modeler"
-url                      : https://xiaoyihf.github.io"
+url                      : https://xiaoyihf.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoyihf/xiaoyihf.github.io"
 
