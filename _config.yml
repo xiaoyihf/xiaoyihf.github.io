@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Feng He/TraCE-21K Project"
+title                    : "TraCE-21K Project"
 title_separator          : "-"
 name                     : &name "Feng He"
 description              : &description "Polar Climate and Exoplanet Modeler"
